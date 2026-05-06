@@ -1,0 +1,14 @@
+{
+  "delta": 1.0,
+  "metrics": {
+    "roc_auc": 0.9160052776612846,
+    "avg_z_score_drop": 0.12537938331364934,
+    "detection_rate": 0.650860344137655
+  },
+  "samples": [
+    {
+      "prompt": "Cluster comprises IBM's Opteron-based eServer 325 server and systems management software and storage devices that can run Linux and Windows operating systems",
+      "attacked_text": "IBM Corporation Opteron 325 servers, systems management software, storage devices and services infrastructure. Linux and Windows The Linux cluster of the Linux cluster uses Optoron software and IBM system management hardware and software to run the Linux and Windows operating system and access data and processes. Linux Cluster is IBM's integrated enterprise and consumer technology management software package.",
+      "original_wm_score": 0.48386943917120656,
+      "attacked_wm_score": 0.3448276190922178,
+      "is_detected": 
